@@ -1,9 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myprivateclonelibrary)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <a href="https://github.com/Blankj">
-    <img src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://xiaozhuanlan.com/Blankj">
